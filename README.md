@@ -32,9 +32,9 @@ Also download the following libraries using
 
  The output will give accuracy as well as 10 images with predicted output.
 
-<img src="Figure_1.png" alt="fig" width="400"/>
-<img src="Figure_2.png" alt="fig" width="400"/>
-<img src="Figure_3.png" alt="fig" width="400"/>
-<img src="Figure_4.png" alt="fig" width="400"/>
-<img src="Figure_5.png" alt="fig" width="400"/>
-<img src="Figure_6.png" alt="fig" width="400"/>
+<img src="Figure_1.png" alt="fig" width="600"/>
+<img src="Figure_2.png" alt="fig" width="600"/>
+<img src="Figure_3.png" alt="fig" width="600"/>
+<img src="Figure_4.png" alt="fig" width="600"/>
+<img src="Figure_5.png" alt="fig" width="600"/>
+<img src="Figure_6.png" alt="fig" width="600"/>
