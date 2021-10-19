@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.model_selection import cross_val_score, train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
@@ -28,7 +28,7 @@ test = test/255.0
 X_scaled = scale(X)
 
 # Train - Test split
-X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.3, train_size=0.2, random_state=10)
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.3, random_state=10)
 
 
 # Logistic Regressor
